@@ -1,0 +1,21 @@
+body {
+    display: block;
+    margin: 0px;
+    text-align: center;
+}
+
+.inp {
+    display: block;
+    margin: auto;
+}
+
+.margin{
+    margin: 2rem;
+}
+
+.input {
+    width: 80%;
+    height: 10vh;
+text-align: center;
+
+}
